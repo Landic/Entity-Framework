@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8295AC-0809-4FBA-87C2-60FB536F45E0}|Volkov_HW_Entity_2\\Volkov_HW_Entity_2.csproj|c:\\project\\ado-net\\volkov_hw_entity_2\\volkov_hw_entity_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8295AC-0809-4FBA-87C2-60FB536F45E0}|Volkov_HW_Entity_2\\Volkov_HW_Entity_2.csproj|solutionrelative:volkov_hw_entity_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBD0A56-B796-4BF0-9E29-2782F01B5A66}|DBContext\\DBContext.csproj|c:\\project\\ado-net\\volkov_hw_entity_2\\dbcontext\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBD0A56-B796-4BF0-9E29-2782F01B5A66}|DBContext\\DBContext.csproj|solutionrelative:dbcontext\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39C48-BECB-4A9C-8997-E6431D341A5A}|Country\\Country.csproj|c:\\project\\ado-net\\volkov_hw_entity_2\\country\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39C48-BECB-4A9C-8997-E6431D341A5A}|Country\\Country.csproj|solutionrelative:country\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\DBContext\\Class1.cs",
+              "RelativeDocumentMoniker": "DBContext\\Class1.cs",
+              "ToolTip": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\DBContext\\Class1.cs",
+              "RelativeToolTip": "DBContext\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T22:28:47.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\Country\\Class1.cs",
+              "RelativeDocumentMoniker": "Country\\Class1.cs",
+              "ToolTip": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\Country\\Class1.cs",
+              "RelativeToolTip": "Country\\Class1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T22:08:24.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\Volkov_HW_Entity_2\\Program.cs",
+              "RelativeDocumentMoniker": "Volkov_HW_Entity_2\\Program.cs",
+              "ToolTip": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\Volkov_HW_Entity_2\\Program.cs",
+              "RelativeToolTip": "Volkov_HW_Entity_2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:09:52.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
