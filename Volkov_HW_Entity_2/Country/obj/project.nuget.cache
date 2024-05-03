@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HapqenXlJ8sTXnybwiE+u2VrOPsmqprK/4A+XQoSdQQSdHZbSuMchkWVGlKhPHb+1zKu+2l7XBkEq1I3LfoIPw==",
+  "dgSpecHash": "kFGdOAB6eELqNnkP+rTibo2e0EJFIJYA7eaZmzMfuwAGC1/DStgTZa8PWjK7mi5awzMUbiWRBDGHad4Lw8bK4g==",
   "success": true,
-  "projectFilePath": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\Country\\Country.csproj",
+  "projectFilePath": "D:\\Projects\\Entity-Framework\\Volkov_HW_Entity_2\\Country\\Country.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXoK8XIPRbXvFKSuchdHN97ulKYPbiqYdRWF2jYg+Vl3bUX5FDIz2h90V1aIOiefMDsHrLY1TDp1GM8X9Aioog==",
+  "dgSpecHash": "rUNGT+oauo3EfPgxe9DnevPi88bH4BYXQVL2nhyggG6cs7Ca3QQ8HlfQutZTmyUKzrBIuMB/spgltZCY49sdwQ==",
   "success": true,
-  "projectFilePath": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\Volkov_HW_Entity_2\\Volkov_HW_Entity_2.csproj",
+  "projectFilePath": "D:\\Projects\\Entity-Framework\\Volkov_HW_Entity_2\\Volkov_HW_Entity_2\\Volkov_HW_Entity_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrwol\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mrwol\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

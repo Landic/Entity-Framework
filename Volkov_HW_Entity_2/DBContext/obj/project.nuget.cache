@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7G3kDTU0XguVeS0bNX3htIRnZtA8EFnwjfeTPm6hZ+MKGrf1dGJ3CbJWivu1BOpIrRDC+B/fEmkksnnqOi0t8w==",
+  "dgSpecHash": "hXTsuHwlO77FQmeNezb/pgRVyHlMzbi3BYAEutNezU9hnE4pmYYMuTWD/YFgCLj8fuPLns0lvYQf/sTRZSFYeA==",
   "success": true,
-  "projectFilePath": "C:\\Project\\ADO-NET\\Volkov_HW_Entity_2\\DBContext\\DBContext.csproj",
+  "projectFilePath": "D:\\Projects\\Entity-Framework\\Volkov_HW_Entity_2\\DBContext\\DBContext.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrwol\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mrwol\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Volkov_HW_Entity_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a93757c9219da2a83576d2304f126fb23bb746")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e26c5a22e4a6251f21a30258c1586ed82e780e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Volkov_HW_Entity_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Volkov_HW_Entity_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
