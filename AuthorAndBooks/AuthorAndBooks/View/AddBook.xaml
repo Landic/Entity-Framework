@@ -1,0 +1,30 @@
+﻿<Window x:Class="AuthorAndBooks.View.AddBook"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AuthorAndBooks.View"
+        mc:Ignorable="d"
+        Title="AddBook" MinHeight="220" MinWidth="400" MaxHeight="220" MaxWidth="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Выберите автора"></Label>
+        <ComboBox Grid.Row="1" Margin="10" ItemsSource="{Binding Author}" SelectedItem="{Binding SelectedAuthor}" DisplayMemberPath="Name"></ComboBox>
+        <Label Content="Введите книгу" Grid.Row="2"></Label>
+        <TextBox Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Grid.Row="3" Margin="10"></TextBox>
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Command="{Binding CancelCommand}" Content="Отмена" Margin="10"></Button>
+            <Button Command="{Binding AddCommand}" Content="Добавить" Grid.Column="1" Margin="10"></Button>
+        </Grid>
+    </Grid>
+</Window>

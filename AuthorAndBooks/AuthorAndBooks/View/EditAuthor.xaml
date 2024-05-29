@@ -1,0 +1,26 @@
+﻿<Window x:Class="AuthorAndBooks.View.EditAuthor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AuthorAndBooks.View"
+        mc:Ignorable="d"
+        Title="EditAuthor" Height="150" Width="300" MinHeight="150" MinWidth="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.7*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Введите изменения для автора"></Label>
+        <TextBox Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Grid.Row="1" Margin="10"></TextBox>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Command="{Binding CancelCommand}" Content="Отмена" Margin="10"></Button>
+            <Button Command="{Binding EditAuthorCommand}" Content="Изменить" Grid.Column="1" Margin="10"></Button>
+        </Grid>
+    </Grid>
+</Window>

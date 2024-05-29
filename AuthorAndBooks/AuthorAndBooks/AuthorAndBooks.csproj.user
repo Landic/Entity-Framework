@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="View\AddAuthor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\EditAuthor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\EditBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Message.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MessageBool.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddAuthor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\EditAuthor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\EditBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Message.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MessageBool.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

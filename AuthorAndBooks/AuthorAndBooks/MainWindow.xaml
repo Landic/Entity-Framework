@@ -1,0 +1,31 @@
+﻿<Window x:Class="AuthorAndBooks.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AuthorAndBooks"
+        mc:Ignorable="d"
+        Title="AuthorAndBooks" Height="450" Width="800" MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.08*"/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.1*"/>
+        </Grid.RowDefinitions>
+        <Menu>
+            <MenuItem Header="Файл"></MenuItem>
+            <MenuItem Header="Опции">
+                <MenuItem Header="Добавление автора" Command="{Binding AddAuthorCommand}"></MenuItem>
+                <MenuItem Header="Редактирование автора" Command="{Binding EditAuthorCommand}"></MenuItem>
+                <MenuItem Header="Удаление автора" Command="{Binding DeleteAuthorCommand}"></MenuItem>
+                <MenuItem Header="Добавление книги" Command="{Binding AddBookCommand}"></MenuItem>
+                <MenuItem Header="Редактирование книги" Command="{Binding EditBookCommand}"></MenuItem>
+                <MenuItem Header="Удаление книги" Command="{Binding DeleteBookCommand}"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <ComboBox Grid.Row="1" Margin="20 5 20 5" ItemsSource="{Binding Author}" DisplayMemberPath="Name" SelectedItem="{Binding SelectedAuthor, Mode=TwoWay}"></ComboBox>
+        <ListBox Grid.Row="2" Margin="20 5 20 5" BorderBrush="Gray" ItemsSource="{Binding Books}" SelectedItem="{Binding SelectedBook}" DisplayMemberPath="Name"></ListBox>
+        <CheckBox Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center" Command="{Binding FilterCommand}" IsChecked="{Binding Filter}">Фильтрация</CheckBox>
+    </Grid>
+</Window>
