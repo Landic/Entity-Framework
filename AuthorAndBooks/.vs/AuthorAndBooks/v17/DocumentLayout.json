@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|D:\\Projects\\Entity-Framework\\AuthorAndBooks\\authorandbooks\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\service\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\service\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|D:\\Projects\\Entity-Framework\\AuthorAndBooks\\authorandbooks\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\addbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\addbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\view\\message.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\view\\message.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\addauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\addauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\view\\editbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\view\\editbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\view\\editauthor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\view\\editauthor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\messageboolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\messageboolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\editauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\editauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\service\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\service\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\service\\iwindowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\service\\iwindowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\addbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\addbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\viewmodel\\addauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\viewmodel\\addauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\view\\messagebool.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\view\\messagebool.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\view\\message.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\view\\message.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|d:\\projects\\entity-framework\\authorandbooks\\authorandbooks\\models\\authorandbookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1767CD89-BA7D-4C36-89B8-750880A573DD}|AuthorAndBooks\\AuthorAndBooks.csproj|solutionrelative:authorandbooks\\models\\authorandbookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,36 +74,195 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Message.xaml",
-              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\Message.xaml",
-              "RelativeDocumentMoniker": "AuthorAndBooks\\View\\Message.xaml",
-              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\Message.xaml",
-              "RelativeToolTip": "AuthorAndBooks\\View\\Message.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-29T23:35:53.604Z",
+              "DocumentIndex": 4,
+              "Title": "EditAuthor.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\EditAuthor.xaml.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\View\\EditAuthor.xaml.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\EditAuthor.xaml.cs",
+              "RelativeToolTip": "AuthorAndBooks\\View\\EditAuthor.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:28:54.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\MessageViewModel.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\ViewModel\\MessageViewModel.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\MessageViewModel.cs",
+              "RelativeToolTip": "AuthorAndBooks\\ViewModel\\MessageViewModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:37:25.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditAuthorViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\EditAuthorViewModel.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\ViewModel\\EditAuthorViewModel.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\EditAuthorViewModel.cs",
+              "RelativeToolTip": "AuthorAndBooks\\ViewModel\\EditAuthorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:18:13.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\Service\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\Service\\RelayCommand.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\Service\\RelayCommand.cs",
+              "RelativeToolTip": "AuthorAndBooks\\Service\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:09:46.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowService.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\Service\\WindowService.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\Service\\WindowService.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\Service\\WindowService.cs",
+              "RelativeToolTip": "AuthorAndBooks\\Service\\WindowService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:37:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWindowService.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\Service\\IWindowService.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\Service\\IWindowService.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\Service\\IWindowService.cs",
+              "RelativeToolTip": "AuthorAndBooks\\Service\\IWindowService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:37:17.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "AuthorAndBooks\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAcwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:24:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditBook.xaml",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\EditBook.xaml",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\View\\EditBook.xaml",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\EditBook.xaml",
+              "RelativeToolTip": "AuthorAndBooks\\View\\EditBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T23:12:35.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditBookViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\EditBookViewModel.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\ViewModel\\EditBookViewModel.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\EditBookViewModel.cs",
+              "RelativeToolTip": "AuthorAndBooks\\ViewModel\\EditBookViewModel.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:08:18.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AddBookViewModel.cs",
               "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\AddBookViewModel.cs",
               "RelativeDocumentMoniker": "AuthorAndBooks\\ViewModel\\AddBookViewModel.cs",
               "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\AddBookViewModel.cs",
               "RelativeToolTip": "AuthorAndBooks\\ViewModel\\AddBookViewModel.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAmwE4AAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T23:35:40.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\MainWindow.xaml",
+              "RelativeToolTip": "AuthorAndBooks\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T10:09:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageBoolViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\MessageBoolViewModel.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\ViewModel\\MessageBoolViewModel.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\MessageBoolViewModel.cs",
+              "RelativeToolTip": "AuthorAndBooks\\ViewModel\\MessageBoolViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:33:21.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageBool.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\MessageBool.xaml.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\View\\MessageBool.xaml.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\MessageBool.xaml.cs",
+              "RelativeToolTip": "AuthorAndBooks\\View\\MessageBool.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:34:43.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Message.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\Message.xaml.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\View\\Message.xaml.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\Message.xaml.cs",
+              "RelativeToolTip": "AuthorAndBooks\\View\\Message.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:34:38.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AddAuthorViewModel.cs",
               "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\AddAuthorViewModel.cs",
               "RelativeDocumentMoniker": "AuthorAndBooks\\ViewModel\\AddAuthorViewModel.cs",
@@ -80,52 +275,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EditBook.xaml",
-              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\EditBook.xaml",
-              "RelativeDocumentMoniker": "AuthorAndBooks\\View\\EditBook.xaml",
-              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\View\\EditBook.xaml",
-              "RelativeToolTip": "AuthorAndBooks\\View\\EditBook.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-29T23:12:35.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EditBookViewModel.cs",
-              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\EditBookViewModel.cs",
-              "RelativeDocumentMoniker": "AuthorAndBooks\\ViewModel\\EditBookViewModel.cs",
-              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\EditBookViewModel.cs",
-              "RelativeToolTip": "AuthorAndBooks\\ViewModel\\EditBookViewModel.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAcwEcAAAAuAAAA",
+              "DocumentIndex": 15,
+              "Title": "AuthorAndBooksContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\Models\\AuthorAndBooksContext.cs",
+              "RelativeDocumentMoniker": "AuthorAndBooks\\Models\\AuthorAndBooksContext.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\Models\\AuthorAndBooksContext.cs",
+              "RelativeToolTip": "AuthorAndBooks\\Models\\AuthorAndBooksContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAC8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T23:08:18.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "AuthorAndBooks\\MainWindow.xaml",
-              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\MainWindow.xaml",
-              "RelativeToolTip": "AuthorAndBooks\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-29T10:09:03.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "AuthorAndBooks\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "D:\\Projects\\Entity-Framework\\AuthorAndBooks\\AuthorAndBooks\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "AuthorAndBooks\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AQIAAP0AAAAAAAAAAAAmwA8BAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T23:24:58.745Z",
+              "WhenOpened": "2024-06-18T22:00:40.778Z",
               "EditorCaption": ""
             }
           ]

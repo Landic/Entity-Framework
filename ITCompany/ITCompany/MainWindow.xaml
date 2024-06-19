@@ -1,0 +1,47 @@
+﻿<Window x:Class="ITCompany.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITCompany"
+        mc:Ignorable="d"
+        Title="IT Company" Height="450" Width="800" MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.08*"/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Menu>
+            <MenuItem Header="Операции">
+                <MenuItem Header="Работники">
+                    <MenuItem Header="Добавить работника" Command="{Binding AddEmployeeCommand}"></MenuItem>
+                    <MenuItem Header="Удалить работника" Command="{Binding DeleteEmployeeCommand}"></MenuItem>
+                    <MenuItem Header="Изменить работника" Command="{Binding EditEmployeeCommand}"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Должности">
+                    <MenuItem Header="Добавить должность" Command="{Binding AddPositionCommand}"></MenuItem>
+                    <MenuItem Header="Удалить должность" Command="{Binding DeletePositionCommand}"></MenuItem>
+                    <MenuItem Header="Изменить должность" Command="{Binding EditPositionCommand}"></MenuItem>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="0.1*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox Margin="10 5 10 5" Text="{Binding SearchText , UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Button Margin="10 5 10 5" Grid.Column="1" Command="{Binding SearchCommand}">Поиск</Button>
+        </Grid>
+        <DataGrid ItemsSource="{Binding Employee}" AutoGenerateColumns="False" Grid.Row="2" IsReadOnly="True" Margin="10 5 10 5" SelectedItem="{Binding SelectedEmployees}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="200"/>
+                <DataGridTextColumn Header="Surname" Binding="{Binding Surname}" Width="200"/>
+                <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="200"/>
+                <DataGridTextColumn Header="Position" Binding="{Binding Position.Name}" Width="155"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
