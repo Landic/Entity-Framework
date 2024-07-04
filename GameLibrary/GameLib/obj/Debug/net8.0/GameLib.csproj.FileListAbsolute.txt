@@ -1,0 +1,5 @@
+D:\Проекты\ADO.NET\EF\GameLib\GameLib\obj\Debug\net8.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ADO.NET\EF\GameLib\GameLib\obj\Debug\net8.0\GameLib.AssemblyInfoInputs.cache
+D:\Проекты\ADO.NET\EF\GameLib\GameLib\obj\Debug\net8.0\GameLib.AssemblyInfo.cs
+D:\Проекты\ADO.NET\EF\GameLib\GameLib\obj\Debug\net8.0\GameLib.csproj.CoreCompileInputs.cache
+D:\Проекты\ADO.NET\EF\GameLib\GameLib\obj\Debug\net8.0\GameLib.sourcelink.json

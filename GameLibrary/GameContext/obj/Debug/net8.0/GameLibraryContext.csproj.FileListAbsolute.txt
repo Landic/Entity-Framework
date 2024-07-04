@@ -1,0 +1,5 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameLibraryContext.csproj.AssemblyReference.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameLibraryContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameLibraryContext.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameLibraryContext.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameLibraryContext.csproj.CoreCompileInputs.cache

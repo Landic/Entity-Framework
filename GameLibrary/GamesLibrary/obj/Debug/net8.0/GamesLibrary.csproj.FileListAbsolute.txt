@@ -1,0 +1,23 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\bin\Debug\net8.0\GamesLibrary.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\bin\Debug\net8.0\GamesLibrary.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\bin\Debug\net8.0\GamesLibrary.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLibrary.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLibrary.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLibrary.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\refint\GamesLibrary.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLibrary.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\ref\GamesLibrary.dll
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\bin\Debug\net8.0\GamesLibrary.deps.json
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\bin\Debug\net8.0\GamesLibrary.dll
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\bin\Debug\net8.0\GamesLibrary.pdb
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\obj\Debug\net8.0\GamesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\obj\Debug\net8.0\GamesLibrary.AssemblyInfoInputs.cache
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\obj\Debug\net8.0\GamesLibrary.AssemblyInfo.cs
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\obj\Debug\net8.0\GamesLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\obj\Debug\net8.0\GamesLibrary.sourcelink.json
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\obj\Debug\net8.0\GamesLibrary.dll
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\obj\Debug\net8.0\refint\GamesLibrary.dll
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\obj\Debug\net8.0\GamesLibrary.pdb
+D:\Projects\Entity-Framework\GameLibrary\GamesLibrary\obj\Debug\net8.0\ref\GamesLibrary.dll

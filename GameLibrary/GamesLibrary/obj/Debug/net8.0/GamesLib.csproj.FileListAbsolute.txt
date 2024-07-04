@@ -1,0 +1,23 @@
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\bin\Debug\net8.0\GamesLib.deps.json
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\bin\Debug\net8.0\GamesLib.dll
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\bin\Debug\net8.0\GamesLib.pdb
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.AssemblyInfoInputs.cache
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.AssemblyInfo.cs
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.csproj.CoreCompileInputs.cache
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.sourcelink.json
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.dll
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\obj\Debug\net8.0\refint\GamesLib.dll
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.pdb
+D:\Проекты\ADO.NET\EF\GameLib\GamesLib\obj\Debug\net8.0\ref\GamesLib.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\bin\Debug\net8.0\GamesLib.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\bin\Debug\net8.0\GamesLib.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\bin\Debug\net8.0\GamesLib.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\refint\GamesLib.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\GamesLib.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GamesLib\obj\Debug\net8.0\ref\GamesLib.dll

@@ -1,0 +1,56 @@
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\bin\Debug\net8.0\appsettings.json
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\bin\Debug\net8.0\GameContext.deps.json
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\bin\Debug\net8.0\GameContext.dll
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\bin\Debug\net8.0\GameContext.pdb
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\bin\Debug\net8.0\GamesLib.dll
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\bin\Debug\net8.0\GamesLib.pdb
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.csproj.AssemblyReference.cache
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.AssemblyInfoInputs.cache
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.AssemblyInfo.cs
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.csproj.CoreCompileInputs.cache
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.sourcelink.json
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.csproj.CopyComplete
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.dll
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\refint\GameContext.dll
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.pdb
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\ref\GameContext.dll
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\bin\Debug\net8.0\GameContext.runtimeconfig.json
+D:\Проекты\ADO.NET\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\bin\Debug\net8.0\appsettings.json
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\bin\Debug\net8.0\GameContext.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\bin\Debug\net8.0\GameContext.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\bin\Debug\net8.0\GameContext.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\bin\Debug\net8.0\GameContext.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.csproj.AssemblyReference.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameCont.036E385C.Up2Date
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\refint\GameContext.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\GameContext.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\obj\Debug\net8.0\ref\GameContext.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\bin\Debug\net8.0\GamesLibrary.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\ADO.NET-main\EF\GameLib\GameContext\bin\Debug\net8.0\GamesLibrary.pdb
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameContext.csproj.AssemblyReference.cache
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameContext.AssemblyInfoInputs.cache
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameContext.AssemblyInfo.cs
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameContext.csproj.CoreCompileInputs.cache
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameContext.sourcelink.json
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameContext.dll
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\refint\GameContext.dll
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameContext.pdb
+D:\Projects\Entity-Framework\GameLibrary\GameContext\bin\Debug\net8.0\appsettings.json
+D:\Projects\Entity-Framework\GameLibrary\GameContext\bin\Debug\net8.0\GameContext.deps.json
+D:\Projects\Entity-Framework\GameLibrary\GameContext\bin\Debug\net8.0\GameContext.runtimeconfig.json
+D:\Projects\Entity-Framework\GameLibrary\GameContext\bin\Debug\net8.0\GameContext.dll
+D:\Projects\Entity-Framework\GameLibrary\GameContext\bin\Debug\net8.0\GameContext.pdb
+D:\Projects\Entity-Framework\GameLibrary\GameContext\bin\Debug\net8.0\GamesLibrary.dll
+D:\Projects\Entity-Framework\GameLibrary\GameContext\bin\Debug\net8.0\GamesLibrary.pdb
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameCont.036E385C.Up2Date
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\GameContext.genruntimeconfig.cache
+D:\Projects\Entity-Framework\GameLibrary\GameContext\obj\Debug\net8.0\ref\GameContext.dll
