@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Entity-Framework\\GoodsDapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\promotionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\promotionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\promotiongood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\promotiongood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\interestarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\interestarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\customervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\customervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\customerinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\customerinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|d:\\projects\\entity-framework\\goodsdapper\\goodsdapper\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3430A3FD-AA8C-41CF-BFCB-329E0F9F7C2D}|GoodsDapper\\GoodsDapper.csproj|solutionrelative:goodsdapper\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\appsettings.json",
+              "RelativeDocumentMoniker": "GoodsDapper\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\appsettings.json",
+              "RelativeToolTip": "GoodsDapper\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T22:54:04.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromotionVM.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\PromotionVM.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\PromotionVM.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\PromotionVM.cs",
+              "RelativeToolTip": "GoodsDapper\\PromotionVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:53:54.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PromotionGood.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\PromotionGood.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\PromotionGood.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\PromotionGood.cs",
+              "RelativeToolTip": "GoodsDapper\\PromotionGood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:53:52.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\Promotion.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\Promotion.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\Promotion.cs",
+              "RelativeToolTip": "GoodsDapper\\Promotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:53:49.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterestArea.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\InterestArea.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\InterestArea.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\InterestArea.cs",
+              "RelativeToolTip": "GoodsDapper\\InterestArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:53:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\Program.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\Program.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\Program.cs",
+              "RelativeToolTip": "GoodsDapper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:50:16.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerVM.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\CustomerVM.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\CustomerVM.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\CustomerVM.cs",
+              "RelativeToolTip": "GoodsDapper\\CustomerVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:53:40.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerInterest.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\CustomerInterest.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\CustomerInterest.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\CustomerInterest.cs",
+              "RelativeToolTip": "GoodsDapper\\CustomerInterest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:53:38.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\Customer.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\Customer.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\Customer.cs",
+              "RelativeToolTip": "GoodsDapper\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:53:35.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\City.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\City.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\City.cs",
+              "RelativeToolTip": "GoodsDapper\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:53:32.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\Country.cs",
+              "RelativeDocumentMoniker": "GoodsDapper\\Country.cs",
+              "ToolTip": "D:\\Projects\\Entity-Framework\\GoodsDapper\\GoodsDapper\\Country.cs",
+              "RelativeToolTip": "GoodsDapper\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:53:29.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
