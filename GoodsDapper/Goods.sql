@@ -1,7 +1,7 @@
-CREATE DATABASE GoodsDapper
+CREATE DATABASE Goods
 GO
 
-USE GoodsDapper
+USE Goods
 GO
 
 CREATE TABLE Countries (
@@ -48,7 +48,6 @@ CREATE TABLE PromotionGoods (
     GoodName NVARCHAR(100),
     FOREIGN KEY (PromotionId) REFERENCES Promotions(Id)
 );
-
 
 
 INSERT INTO Countries (Title) VALUES ('United States'), ('United Kingdom'), ('Canada'), ('Australia');

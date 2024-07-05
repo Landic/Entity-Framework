@@ -185,7 +185,8 @@ namespace GoodsDapper
                 Console.WriteLine(ex.Message);
             }
         }
-        //Select
+
+
         static void ShowAllCustomers(bool expect = true)
         {
             Console.Clear();
@@ -543,7 +544,7 @@ namespace GoodsDapper
                         "VALUES(@FullName, @DateOfBirth, @Gender, @Email, @CountryId,@CityId )";
                     int number = db.Execute(sqlQuery, customer);
                     if (number != 0)
-                        Console.WriteLine("Студент успешно добавлен!");
+                        Console.WriteLine("Успешно добавлен!");
                 }
             }
             catch { Console.WriteLine("Неверный ввод"); }
